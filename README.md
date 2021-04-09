@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @romeodelosangeles
+- 👀 I’m interested in HTML, CSS, Javascript
+- 🌱 I’m currently learning Javascript
